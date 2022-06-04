@@ -1,6 +1,9 @@
 # CSE523-ML-and-CSE541-CV-2022-FOUR
 
-## The motive for this project is to create a driver assistance system that helps in vehicle and lane detection in the surrounding while also alerting with in the case of lane departure
+## The motive for this project is to create a driver assistance system that helps in vehicle and lane detection in the surrounding while also alerting in the case of lane departure
+
+## The vehicle detection model produces bounding boxes around a vehicle. For example, in this frame there are two cars that are detected by the ML model (SVM)
+![](https://i.imgur.com/60SP1Su.jpg)
 
 ## Input image
 ![](https://i.imgur.com/6rKHZiV.png)

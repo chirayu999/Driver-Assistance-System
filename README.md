@@ -5,7 +5,7 @@
 ## The vehicle detection model produces bounding boxes around a vehicle. For example, in this frame there are two cars that are detected by the ML model (SVM)
 ![](https://i.imgur.com/60SP1Su.jpg)
 
-## Input image
+## Input image for lane detection
 ![](https://i.imgur.com/6rKHZiV.png)
 
 ## Canny edge detector is used to find the edge points after image thresholding
